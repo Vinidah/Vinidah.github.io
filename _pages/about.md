@@ -6,7 +6,7 @@ excerpt: "Hi,I am Vincent Ogweno Wayuga ferom Kenya. I am a Data Scientist with 
 image: "/assets/img/about.jpg"
 permalink: /about/
 ---
-
+I am Vincent Ogweno Wayuga ferom Kenya. I am a Data Scientist with a lot of enthusism in Machine Learning and artificial Intelligence. I am currently working on developing machine learning algorithims to make predictions on the global mass extinction according to the SR15 report of IPPC.
 
 
 ### Let's be friends
