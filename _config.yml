@@ -1,6 +1,6 @@
-title: Azamuke Denish
+title: Vincent Wayuga
 description: "my web"
-url: "https://azamukedenish.github.io"
+url: "https://Vinidah.github.io"
 
 logo:
   path: "/assets/img/m-icon-blue-on-white.png"
@@ -11,32 +11,32 @@ image: "/assets/img/writings.jpg"
 theme_color: "#000000"
 
 author:
-  name: Azamuke Denish
-  email: denishazamuke@gmail.com
-  uri: https://azamukedenish.github.io
+  name: Vincent Wayuga
+  email: vincent.ogweno@aims.ac.rw
+  uri: https://Vinidah.github.io
   avatar: "/assets/img/m-icon-white-on-blue.png"
   bio: "Computer Scientist, building Innovations to support the local communities in Uganda"
-  facebook: azamuke.denishavogadro
-  twitter: Azamukedenish1
-  instagram: azamukedenish
-  google_plus: azamukedenish
-  linkedin: azamuke-denish-42b465145
-  pinterest: azamukedenish
-  github: azamukedenish
-  keybase: azamukedenish
+  facebook: Vincent Wayugah
+  twitter: Vincent Wayuga
+  instagram: Vincent Wayuga
+  google_plus: Vincent Wayuga
+  linkedin: Vincent Wayuga
+  pinterest: Vincent Wayuga
+  github: Vincent Wayuga
+  keybase: Vincent Wayuga
   street: "First Street"
-  locality: Kampala
+  locality: Kisumu
   region: central
-  postcode: 2570
-  country: Uganda
+  postcode: 40100
+  country: Kenya
 
 facebook:
   admins: 100001982813077
 
 twitter:
-  username: Azamukedenish1
+  username:Vincent Wayuga
 
-disqus_shortname: azamukedenish
+disqus_shortname: Vincent Wayuga
 google_cse_id: 003203019626111314589:pxhon_hlo2q
 google_api_key: AIzaSyB27uh5sPHJ156nRryf1yuJn6fjo_B7qvI
 google_analytics_id: UA-99335803-1
@@ -59,7 +59,7 @@ nav:
 repository: azamukedenish/azamukedenish.github.io
 branch: master
 encoding: utf-8
-timezone: Africa/Kampala
+timezone: Africa/Nairobi
 locale: en_us
 future: true
 
