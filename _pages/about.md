@@ -6,7 +6,7 @@ excerpt: "Hi,I am Vincent Ogweno Wayuga from Kenya. I am a Data Scientist with a
 image: "/assets/img/about.jpg"
 permalink: /about/
 ---
-I am Vincent Ogweno Wayuga from Kenya. I am a Data Scientist with a lot of enthusism in Machine Learning and artificial Intelligence. I am currently working on developing machine learning algorithims to make predictions on the global mass extinction according to the SR15 report of IPPC.
+Hello, I am Vincent Ogweno Wayuga from Kenya. I am a data Scientist with a lot of enthusism in Machine Learning and artificial Intelligence. I am currently working on developing machine learning algorithims to make predictions on the rate of global mass extinction more specifically on marine life according to the SR15 report of IPPC, 2019 about the impact of climate change on .
 
 
 ### Let's hook up and change the world.
@@ -85,7 +85,7 @@ In case you were wondering, this site is:
 
 ...for more informations see [humans.txt](/humans.txt).
 
-If you enjoy the content found here, feel free to send me any feedback, comments, or suggestions about the site and business using denishazamukeATgmailDOTcom.
+If you enjoy the content found here, feel free to send me any feedback, comments, or suggestions about the site and business using wayugav@gmail.com.
 
 ### Licensing
 
