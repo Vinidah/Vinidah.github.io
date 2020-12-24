@@ -2,18 +2,11 @@
 layout: page
 title: "About"
 description: "This is what I do."
-excerpt: "Hi, I’m Azamuke Denish and I specialize in Mobile Applications (iOS and Android). I’m passionate about what I do, and I love to help people. Due to the large volume of requests, i give attention to paid requests. "
+excerpt: "Hi,I am Vincent Ogweno Wayuga ferom Kenya. I am a Data Scientist with a lot of enthusism in Machine Learning and artificial Intelligence. I am currently working on developing machine learning algorithims to make predictions on the global mass extinction according to the SR15 report of IPPC "
 image: "/assets/img/about.jpg"
 permalink: /about/
 ---
 
-
-
-Hi, I’m Azamuke Denish and I specialize in Mobile Applications. I’m passionate about what I do, and I love to help people. Nothing is more fulfilling than being part of a team with similar interests, and an organization that values its people.
-
-I am passionate about App Development and communities. I just enjoy working on new ideas. Also work as smart as possible. I love to do creative apps. I am always ready to learn new things and help people, organisations and companies however due to large volume of requests, i give attention to paid requests.
-
-I studied Bachelor of science in computer science at Makerere University from 2016 to 2019. In July 3rd - 4th 2019, I was able to represent Makerere University at The Africa Blockchain Conference, Kampala Serena Conference Centre. I also represented the University in many exhibitions in Kampala.
 
 
 ### Let's be friends
