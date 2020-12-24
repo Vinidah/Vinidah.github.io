@@ -2,42 +2,42 @@
 layout: page
 title: "About"
 description: "This is what I do."
-excerpt: "Hi,I am Vincent Ogweno Wayuga ferom Kenya. I am a Data Scientist with a lot of enthusism in Machine Learning and artificial Intelligence. I am currently working on developing machine learning algorithims to make predictions on the global mass extinction according to the SR15 report of IPPC "
+excerpt: "Hi,I am Vincent Ogweno Wayuga from Kenya. I am a Data Scientist with a lot of enthusism in Machine Learning and artificial Intelligence. I am currently working on developing machine learning algorithims to make predictions on the global mass extinction according to the SR15 report of IPPC "
 image: "/assets/img/about.jpg"
 permalink: /about/
 ---
-I am Vincent Ogweno Wayuga ferom Kenya. I am a Data Scientist with a lot of enthusism in Machine Learning and artificial Intelligence. I am currently working on developing machine learning algorithims to make predictions on the global mass extinction according to the SR15 report of IPPC.
+I am Vincent Ogweno Wayuga from Kenya. I am a Data Scientist with a lot of enthusism in Machine Learning and artificial Intelligence. I am currently working on developing machine learning algorithims to make predictions on the global mass extinction according to the SR15 report of IPPC.
 
 
-### Let's be friends
+### Let's hook up and change the world.
 
 Join me on the following networks and/or websites:
 
 <!-- Social links -->
 <ul class="social-links">
   <li>
-    <a rel="me" href="//twitter.com/azamukedenish1">
+    <a rel="me" href="//twitter.com/Vincent-Wayuga">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-twitter"></use></svg>
       </span><br><span class="label">Twitter</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//www.facebook.com/Azamuke-Denish-111776309235790/?ref=page_internal">
+    <a rel="me" href="//www.facebook.com/Vincent-Wayuga-111776309235790/?ref=page_internal">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-facebook"></use></svg>
       </span><br><span class="label">Facebook</span>
     </a>
   </li>
   <li>
-     <a rel="me" href="//instagram.com/azamukedenish">
+     <a rel="me" href="//instagram.com/Vincent-Wayuga">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-instagram"></use></svg>
       </span><br><span class="label">Instagram</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//github.com/azamukedenish">
+    <a rel="me" href="//github.com/Vinidah">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-github"></use></svg>
       </span><br><span class="label">GitHub</span>
@@ -45,7 +45,7 @@ Join me on the following networks and/or websites:
   </li>
   
   <li>
-    <a rel="me" href="//linkedin.com/in/azamuke-denish-
+    <a rel="me" href="//linkedin.com/in/Vincent-Wayuga-
 42b465145/">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-linkedin"></use></svg>
@@ -55,7 +55,7 @@ Join me on the following networks and/or websites:
  
   
   <li>
-    <a rel="me" href="//medium.com/@denishazamuke">
+    <a rel="me" href="//medium.com/@Vincent-Wayuga">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-medium"></use></svg>
       </span><br><span class="label">Medium</span>
