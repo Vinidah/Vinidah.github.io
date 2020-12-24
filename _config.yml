@@ -15,7 +15,7 @@ author:
   email: vincent.ogweno@aims.ac.rw
   uri: https://Vinidah.github.io
   avatar: "/assets/img/m-icon-white-on-blue.png"
-  bio: "Computer Scientist, building Innovations to support the local communities in Uganda"
+  bio: "Computer Scientist, building Innovations to support the local communities in Kenya and Africa at large"
   facebook: Vincent Wayugah
   twitter: Vincent Wayuga
   instagram: Vincent Wayuga
@@ -56,7 +56,7 @@ nav:
     url: "/privacy_policy/"
     
 
-repository: azamukedenish/azamukedenish.github.io
+repository: Vinidah/Vinidah.github.io
 branch: master
 encoding: utf-8
 timezone: Africa/Nairobi
